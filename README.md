@@ -3,4 +3,4 @@
 
 <!-- mention a link  -->
 
-![DOI](https://github.com/Imami-syed/watermodel)
+![Link to followup work](https://github.com/Imami-syed/watermodel)
